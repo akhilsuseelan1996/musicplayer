@@ -1,2 +1,2 @@
-# musicplayer
-An Emotion based Music Player works by detecting the facial expression of a person. It involves application of several Machine Learning Libraries(eg:scikit-learn) in Python.
+# Emotion Based Music Player
+Listening  to  music  has  been  found  to  affect  the  human  brain  activities.  Emotion based  music  player  with  automated  playlists  can  help  users  to  maintain  a  selected emotional state. This project proposes an emotion based music player that create playlists based on real time photos of the user. User's images were captured in real time using an inbuilt camera and play a song that matches the mood of the user. 
